@@ -1,0 +1,25 @@
+[
+    {"id":"1",
+    "est1":"est1.png",
+    "alt":"imagen estadistica 1",
+    "DigicampistasFormados":"3531",
+    "titulo1":"DIGICAMPISTAS FORMADOS"},
+
+    {"id":"2",
+    "est2":"est2.png",
+    "alt":"imagen estadistica 2",
+    "Certificados":"925",
+    "titulo2":"CERTIFICADOS"},
+
+    {"id":"3",
+    "est3":"est3.png",
+    "alt":"imagen estadistica 3",
+    "LineaDeCodigo":"15344",
+    "titulo1":"LINEAS DE CODIGO"},
+
+    {"id":"4",
+    "est4":"est4.png",
+    "alt":"imagen estadistica 4",
+    "Bootcamps":"6",
+    "titulo1":"BOOTCAMPS"}
+]
